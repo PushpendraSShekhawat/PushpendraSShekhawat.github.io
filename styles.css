@@ -17,17 +17,21 @@ body{
     BORDER: 4px solid #42253D;
 }
 
-.assignment img:hover{
+.assignment img:hover {
     border: 4px dashed #D70B31;
 }
 
-h1{
-    color:darkorchid;
+h1 {
+    color:#42253D;
     text-align: center;
 }
 
 h1:hover {
-    color: #42253D;
+    color: #D70B31;
+}
+
+h4 {
+    text-align: center;
 }
 
 a{
